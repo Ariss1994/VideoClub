@@ -1,0 +1,3 @@
+Pour Utiliser le bouton "Rechercher": Il faut entrer n'importe quel coordonnée du sujet (employé ou adherent).
+
+Pour Utiliser le bouton "Supprimer": Il faut entrer la ligne correspondante du sujet (employé ou adherent).
